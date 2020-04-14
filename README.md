@@ -1,3 +1,12 @@
+
+<h2>COMANDOS REALIZADOS PARA LA INSTALACIÓN DE SANCTUM(SIN CONFIGURAR)... </h2><br />
+(Según se indica en la página oficial)
+
+ 1. composer.phar require laravel/sanctum
+ 2. php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+ 3. php artisan migrate
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
