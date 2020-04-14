@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\API\V2;
+namespace App\Http\Controllers\API\V3;
 
 use Illuminate\Http\Request;
 // Cargamos Fabricante por que lo usamos más abajo.
